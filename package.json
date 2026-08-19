@@ -1,0 +1,16 @@
+{
+  "name": "banco-de-dados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste-BD.js",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
